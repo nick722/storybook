@@ -21,6 +21,6 @@ storiesOf("Task", module)
   .add("pinned", () => (
     <Task task={{ ...task, state: "TASK_PINNED" }} {...actions} />
   ))
-  .add("pinned", () => (
+  .add("archived", () => (
     <Task task={{ ...task, state: "TASK_ARCHIVED" }} {...actions} />
   ));

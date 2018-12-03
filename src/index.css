@@ -881,7 +881,7 @@ a:focus {
 .list-item.TASK_ARCHIVED input[type="text"] {
   color: #aaa;
 }
-.list-item:hover {
+.list-item:hover {"../src/index.css"
   background-image: linear-gradient(to bottom, #e5f9f7 0%, #f0fffd 100%);
 }
 .list-item:hover .checkbox {

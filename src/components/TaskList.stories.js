@@ -18,7 +18,7 @@ export const withPinnedTasks = [
   {
     id: "6",
     title: "Task 6 (pinned)",
-    state: "TASK_PINNNED"
+    state: "TASK_PINNED"
   }
 ];
 
